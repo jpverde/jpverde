@@ -5,7 +5,7 @@
 </p>
 
 - 🔭 I’m currently working on [Fluid Attacks](https://fluidatacks.com) as a Developer/Tester. I'm also a maintainer for [Makes](https://github.com/fluidattacks/makes) You can take a look here to test the project on your own 😃
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) ![100%](https://us-central1-progress-markdown.cloudfunctions.net/progress/10) and [Nix](https://nixos.org/) ![50%](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) ![100%](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) and [Nix](https://nixos.org/) ![50%](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)
 - 👓 I have experience working with:
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
